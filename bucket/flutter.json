@@ -5,7 +5,7 @@
     "license": "BSD-3-Clause",
     "depends": [
         "android-sdk",
-        "java/openjdk"
+        "java/openjdk8-redhat"
     ],
     "suggest": {
         "Visual Studio Code with Flutter Extension": [
