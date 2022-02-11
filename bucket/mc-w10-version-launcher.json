@@ -1,10 +1,10 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "Windows 10 Multi-Version launcher.",
     "homepage": "https://github.com/MCMrARM/mc-w10-version-launcher",
     "license": "GPL-3.0 License",
-    "url": "https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.3.0/MCLauncher.zip",
-    "hash": "702925027f0dfe01fb8c05b96f1543131815bf30154f6af7c5809874f9bc4ad2",
+    "url": "https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip",
+    "hash": "4e62cefbd747b0656dd19fd55e6f3b222b139cb7b52c80db474f72035d4ed701",
     "pre_install": [
         "(Get-ChildItem \"$dir\\MCLauncher_*\\*\" | Move-Item -Destination \"$dir\");",
         "Remove-Item \"$dir\\MCLauncher_*\""
